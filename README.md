@@ -16,6 +16,7 @@ Our mission is to deliver **ethical**, continuously learning, and practically ap
 - **Server IP**: `52.77.173.228`
 - **Server OS**: Ubuntu 22.04 (EC2 Instance)
 - **Domain Provider**: Namecheap
+- **Video Explainer Link**:
 
 ---
 
