@@ -67,6 +67,11 @@ ssh -i "abin.pem" ubuntu@ec2-52-77-173-228.ap-southeast-1.compute.amazonaws.com
 
 ---
 
+## Total Cost Ownership
+Amazon EC2 = $0 (per year)
+Namecheap = $1.75 (per year)
+Storage (8gb) = $9.60 (per year)
+
 ## 💡 Features
 
 - 🌙 Light/Dark theme toggle
