@@ -1,6 +1,6 @@
 # Abinetic Artificial Intelligence
 
-![Abinetic AI Banner](https://abinetic.online/banner.png) <!-- Optional if you have one -->
+
 
 ## Project Overview
 
