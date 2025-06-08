@@ -77,16 +77,6 @@ ssh -i "abin.pem" ubuntu@ec2-52-77-173-228.ap-southeast-1.compute.amazonaws.com
 
 ---
 
-## 📸 Screenshots
-
-<!-- You can replace these with actual image links from your GitHub repo or site -->
-
-| Portal | Dashboard |
-|--------|-----------|
-| ![](screenshots/portal.png) | ![](screenshots/dashboard.png) |
-
----
-
 ## 📚 Learning Outcomes
 
 This project demonstrates:
