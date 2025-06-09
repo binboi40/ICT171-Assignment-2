@@ -16,7 +16,7 @@ Project Information
 
 - Domain Provider: Namecheap
 
-- Video Explainer Link:
+- Video Explainer Link: https://youtu.be/sdoZLn7uX-k
 
 - Github Link:https://github.com/binboi40/ICT171-Assignment-2/edit/main/README.md
 
