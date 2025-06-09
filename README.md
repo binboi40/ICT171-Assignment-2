@@ -18,6 +18,7 @@ Project Information
 
 
 TOTAL COST OF OWNERSHIP (TCO)
+
 EC2 - $O(per year)
 NAMECHEAP(DOMAIN) - $1.75(per year)
 STORAGE(8GB) - $9.60(per year)
