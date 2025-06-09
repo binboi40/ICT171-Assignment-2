@@ -16,6 +16,14 @@ Project Information
 
 - Domain Provider: Namecheap
 
+
+TOTAL COST OF OWNERSHIP (TCO)
+EC2 - $O(per year)
+NAMECHEAP(DOMAIN) - $1.75(per year)
+STORAGE(8GB) - $9.60(per year)
+TOTAL - $11.35(per year)
+
+
 Project Description
 
 Abinetic Artificial Intelligence is an upcoming smart AI system that is mainly aimed for helping people and businesses work 10x faster and smarter. For this, we use the most advanced machine learning to automate tasks, make predictions and to operate across all domains like healthcare, education, customer service and more. Our main focus is on the ethical AI, continuous learning and real-world applicability.
