@@ -16,6 +16,10 @@ Project Information
 
 - Domain Provider: Namecheap
 
+- Video Explainer Link:
+
+- Github Link:https://github.com/binboi40/ICT171-Assignment-2/edit/main/README.md
+
 
 TOTAL COST OF OWNERSHIP (TCO)
 
